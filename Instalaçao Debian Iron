@@ -1,0 +1,58 @@
+#Apos a instalacao criar senha de root
+
+#!/usr/bin/env bash
+
+
+sudo apt install network-manager \
+xorg \
+i3-wm \
+i3blocks \
+suckless-tools \
+j4-dmenu-desktop \
+rofi \
+pcmanfm \
+xfce4-terminal \
+xfce4-screenshooter \
+xfce4-power-manager \
+inxi \
+geany \
+vim \
+compton \
+wmctrl \
+xdotool \
+xinput \
+lxinput \
+lxappearance \
+papirus-icon-theme \
+arc-theme \
+breeze-cursor-theme \
+ttf-mscorefonts-installer \
+synaptic \
+gdebi \
+htop \
+pulseaudio \
+pavucontrol \
+vlc \
+mpv \
+smplayer \
+smplayer-themes \
+blueman \
+transmission \
+atril \
+poppler-utils \
+font-manager \
+gnome-calculator \
+sxiv \
+moc \
+policykit-1-gnome \
+gparted \
+p7zip-full \
+speech-dispatcher \
+numlockx
+                        
+                 
+# gsimplecal - calendario ao passar o mouse \
+# inkscape \
+# gimp \
+# mednafen mednaffe - emulador            
+                                     
